@@ -1,0 +1,16 @@
+----- CRIAR UMA API -----
+
+        CRUD
+
+Criar os usuários ou cadastrar [POST]
+
+Busca por 1 ou + usuários [GET] Lista ou um único objeto
+
+Buscar e atualizar o usuários que foi selecionado [UPDATE]
+
+Deletar usuários [DELETE]
+
+
+FRAMEWORK --> DJANGO REST FRAMEWORK
+
+
